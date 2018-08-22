@@ -83,7 +83,6 @@ env_specs:
     - ipyparallel
     - IPython
     - ipython_genutils
-    - ipyvolume
     - ipywebrtc
     - ipywidgets
     - itsdangerous
