@@ -1,0 +1,3 @@
+[submodule "vendor/deathbeds"]
+	path = vendor/deathbeds
+	url = https://github.com/deathbeds/deathbeds.github.io
